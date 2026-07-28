@@ -5,7 +5,7 @@ import Header from "./features/Header/Header.tsx";
 function App() {
 
   return (
-    <div>
+    <div className="p-8">
       <Header />
     </div>
   )
